@@ -10,6 +10,10 @@ Get-AppxPackage *WebExperience* | Remove-AppxPackage
 
 ### Header 3
 
+- [ ] task 1
+- [x] task 2
+- [ ] task 3
+
 #### Header 4
 
 ##### Header 5
