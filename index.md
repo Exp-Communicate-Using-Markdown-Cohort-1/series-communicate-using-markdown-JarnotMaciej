@@ -4,6 +4,10 @@
 
 ## Header 2
 
+```
+Get-AppxPackage *WebExperience* | Remove-AppxPackage
+```
+
 ### Header 3
 
 #### Header 4
